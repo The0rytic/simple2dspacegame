@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a30781c8d6bb27048bdbc6307036ecc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - penis: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - lifePickup: {fileID: 296914728137629918, guid: 27ae1590121db90488ea2bff135442c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
